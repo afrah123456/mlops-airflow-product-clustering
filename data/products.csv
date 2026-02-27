@@ -1,0 +1,41 @@
+product_id,product_name,category,price,rating,purchase_count
+1,Laptop,Electronics,999.99,4.5,150
+2,Mouse,Electronics,29.99,4.2,320
+3,Keyboard,Electronics,79.99,4.3,280
+4,Monitor,Electronics,299.99,4.6,180
+5,Headphones,Electronics,149.99,4.4,250
+6,Webcam,Electronics,89.99,4.1,190
+7,USB Cable,Electronics,9.99,4.0,450
+8,Laptop Bag,Electronics,49.99,4.3,210
+9,Desk Chair,Furniture,199.99,4.4,120
+10,Standing Desk,Furniture,399.99,4.6,95
+11,Bookshelf,Furniture,149.99,4.2,110
+12,Desk Lamp,Furniture,39.99,4.3,180
+13,Office Chair,Furniture,249.99,4.5,140
+14,Filing Cabinet,Furniture,179.99,4.1,85
+15,Coffee Maker,Appliances,79.99,4.4,200
+16,Microwave,Appliances,129.99,4.3,160
+17,Blender,Appliances,59.99,4.2,175
+18,Toaster,Appliances,39.99,4.1,190
+19,Rice Cooker,Appliances,49.99,4.3,155
+20,Air Fryer,Appliances,119.99,4.5,210
+21,Notebook,Stationery,4.99,4.2,500
+22,Pen Set,Stationery,12.99,4.3,420
+23,Markers,Stationery,8.99,4.1,380
+24,Sticky Notes,Stationery,6.99,4.2,450
+25,Planner,Stationery,19.99,4.4,280
+26,Binder,Stationery,9.99,4.0,340
+27,Scissors,Stationery,7.99,4.1,310
+28,Stapler,Stationery,11.99,4.2,290
+29,Tape Dispenser,Stationery,5.99,3.9,360
+30,Paper Clips,Stationery,3.99,4.0,480
+31,Running Shoes,Sports,89.99,4.5,230
+32,Yoga Mat,Sports,29.99,4.4,195
+33,Dumbbell Set,Sports,149.99,4.6,140
+34,Resistance Bands,Sports,24.99,4.3,210
+35,Jump Rope,Sports,14.99,4.2,185
+36,Water Bottle,Sports,19.99,4.4,310
+37,Gym Bag,Sports,39.99,4.3,170
+38,Fitness Tracker,Sports,99.99,4.5,165
+39,Protein Powder,Sports,49.99,4.2,220
+40,Foam Roller,Sports,34.99,4.3,145
