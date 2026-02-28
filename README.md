@@ -1,4 +1,4 @@
-# Product Recommendation Clustering Pipeline - MLOps LAB3
+# Product Recommendation Clustering Pipeline - Mlops Lab 3
 
 ## Project Description
 An Apache Airflow-based ML pipeline that clusters products for recommendation systems. The pipeline uses K-Means clustering to group similar products based on price, rating, and purchase count, achieving optimal clustering with the elbow method.
